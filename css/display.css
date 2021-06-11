@@ -28,7 +28,7 @@ ul li {
 ul li a {
  color: brown; 
  text-decoration: none;  
- letter-spacing: 0.1rem;
+ letter-spacing: 0.5rem;
 }
 .box1, .box2, .box3 {
     width: 200px;
