@@ -1,0 +1,106 @@
+/* #new {
+    color: green;
+    background: hotpink;
+}
+#ram {
+    color: red;
+    background: grey;
+}
+
+.green {
+    color: green;
+    background: greenyellow;
+}
+.red {
+    color: red;
+    background: yellow;
+}
+
+#title {
+    font-size: 100px;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.lowercase {
+    text-transform: lowercase; */
+/* } */
+
+/* div which is used to group multiple elements  */
+
+/* inheritance  body will be red for all the elements */
+/*  what changes you have done font style ..etc in body whole body will chnage  */
+/* body {
+    color: red;
+} */
+/*  you can override the elements inheritace body  class, id*/
+/* div {
+    color: red;
+}
+span {
+    color: red;
+} */
+
+.special {
+    color: rgba(27, 82, 145, 0.842);
+    background-color: rgb(0,0,0);
+}
+p {
+    color: brown;
+    background-color: black;
+}
+.new{
+    color: green;
+}
+#myid{
+    color: rgba(255, 0,0, 0.75):
+    background-color: rgba(255, 0,0, 1)
+}
+body {
+    color: #00ff00;
+    background: white;
+    width: 1000px;
+    height: 800px:
+    
+}
+/*  font and percentage  */
+.ven {
+    
+    background:black;
+    width: 800px;
+    height: 800px
+}
+.ram {
+   
+    background: red;
+    width: 50%;
+    height:50%
+}
+/*  em and rem */
+div {
+    font-size: 32px;
+}
+.new {
+    font-size: 32px;
+}
+.news {
+    font-size: 2rem;
+}
+/* viewpoints vh= view height and vw = view width percentage to the screen */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+.new {
+    background: green;
+    height: 100vh;
+    width: 100vw;
+}
+.news {
+    background: black;
+    height: 50vh;
+    width: 50vw;
+}
+/* auto , overflow hidden, overflow scrool, min height ,  */
+/*  cal function height = cal(-)*/

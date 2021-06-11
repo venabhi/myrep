@@ -1,0 +1,42 @@
+       /* h1 {
+            color: chartreuse;  
+            font-size: 50px;
+        }
+     h1
+        h2 {
+            color: red;
+            font-size: 20px;
+        } */
+        /* h3{
+            color: blue;
+            font-size: 40px;
+        } */
+
+        /* css rule */
+        /*  h1 = selector */
+        /* cplor = property */
+        /* vale = red */
+        /* declaration = whole line */
+
+        /*  element selector  you can select particulat element */
+        /* example */
+        h1 {
+            color: blue;
+        }
+        h2 {
+            color: green;
+        
+        }
+        h3 {
+            color: red;
+        }
+
+        /* grouping selectors */
+        /*  by using gs you can keep same colors for all selectors */
+        /* syntac or example */
+        h1,h2,h3
+        {
+            color: green;
+        }
+
+

@@ -1,0 +1,41 @@
+/*  font-size is size of the fonts ex-50pixel */
+/* font-family = describe the font of the element ex= times new roman  */
+body {
+    font-family: 'Franklin Gothic Medium';
+
+}
+h1 {
+    font-family: 'Stint Ultra Condensed', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+/* generic fonts so, the browser will take matching or suitable font family  */
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* google fonts */
+/*  u can download the google font ant paste url in html and family css if you want */
+/*  font-weight = bold type and font-style = style of text */
+/* example */
+.name {
+    font-weight: 900;
+    font-style: italic;
+}
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+/* text-align= left,center,right and text-indent */
+.name {
+    text-align: center;
+    text-indent: 5rem;
+}
+/*  text-properties */
+/* line-height  = its numer * ont-size*/
+.name {
+    line-height: 5rem;
+    word-spacing: 5px;
+    letter-spacing: 2rem;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
